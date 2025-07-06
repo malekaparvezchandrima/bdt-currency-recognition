@@ -1,4 +1,4 @@
-# 💵 Bangladeshi Currency Recognition using VGG16 (Transfer Learning)
+# 💵 Bangladeshi Currency Recognition using VGG16 (Fine Tuned)
 
 This project uses deep learning with transfer learning to classify Bangladeshi currency notes (Taka) across multiple denominations. A pre-trained VGG16 model (originally trained on ImageNet) was used to extract features, followed by a custom classifier head and fine-tuning for optimal performance.
 
